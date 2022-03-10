@@ -1,0 +1,5 @@
+repository = binaryfiles
+books = "books.pickle"
+clients = "clients.pickle"
+rentals = "rentals.pickle"
+ui = "GUI"

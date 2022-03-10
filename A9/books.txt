@@ -1,0 +1,12 @@
+1234C;Chanel's Riviera;Anne de Courcy
+1235A;All the Flowers in Paris;Sarah Jio
+2031L;Liberation;Imogen Kealey
+1357M;My Heart and Other Black Holes;Jasmine Warga
+1353A;Anxious People;Fredrik Backman
+2456T;The Secret Messenger;Mandy Robotham
+2367T;The Year After You;Nina de Pass
+1356H;Harry Potter and the Prisoner of Azkaban;J.K.Rowling
+2469H;Harry Potter and the Goblet of Fire;J.K.Rowling
+2939B;Baptism of Fire;Andrzej Sapkowski
+3495G;Good Omens;Neil Gaiman
+5040S;Sword of Destiny;Andrzej Sapkowski
